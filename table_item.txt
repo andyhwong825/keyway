@@ -1,0 +1,556 @@
+040000422082    @3 Musketeers                    @e0   @1.0   @19  @57  @12/22/17  @Sam's Club                      @
+719410800017    @5 Hour Energy                   @e1   @3.0   @10  @28  @12/22/17  @Sam's Club                      @
+719410750015    @5 Hour Energy, Extra            @e2   @3.0   @1   @33  @3         @Sam's Club                      @
+g69             @Airhead, Generic                @e3   @0.25  @16  @184 @12/22/17  @Sam's Club                      @
+366715970213    @Aleve                           @e4   @1.65  @0   @8   @01/16/18  @NEX Vending                     @
+012000126352    @Amp, Cherry Blast               @e5   @2.0   @2   @18  @01/18/18  @PBC                             @
+012000016431    @Amp, Original                   @e6   @2.0   @19  @-9  @01/12/18  @PBC                             @
+012000160202    @Amp, Tropical Punch             @e7   @2.0   @2   @18  @01/18/18  @PBC                             @
+079783459343    @Animal Crackers                 @e8   @0.5   @5   @47  @01/18/18  @Sam's Club                      @
+01215704        @Aquafina                        @e9   @1.5   @22  @29  @01/18/18  @PBC                             @
+613008721756    @Arizona Lemon Iced Tea          @e10  @1.5   @5   @7   @01/12/18  @AZ Southeast                    @
+613008727000    @Arizona, Arnold Palmer, Big Boy @e11  @1.5   @0   @2   @01/22/18  @AZ Southeast                    @
+613008730895    @Arizona, Arnold Palmer, Bottle  @e12  @1.0   @0   @0   @12/22/17  @AZ Southeast                    @
+613008719302    @Arizona, Arnold Palmer, Can     @e13  @1.0   @1   @52  @01/22/18  @AZ Southeast                    @
+613008728571    @Arizona, Arnold Palmer, Can     @e14  @1.0   @0   @0   @12/22/17  @AZ Southeast                    @
+613008736361    @Arizona, Arnold Palmer, Energy  @e15  @1.0   @1   @19  @01/12/18  @AZ Southeast                    @
+613008722869    @Arizona, B&W Tea, WGH           @e16  @1.0   @7   @13  @01/12/18  @AZ Southeast                    @
+613008731021    @Arizona, BBWhite Tea, Bottle    @e17  @1.0   @11  @24  @12/22/17  @AZ Southeast                    @
+613008739485    @Arizona, Energy, Ex. Perf.      @e18  @1.0   @1   @23  @01/22/18  @AZ Southeast                    @
+613008742225    @Arizona, Energy, Fruit Punch    @e19  @1.0   @0   @15  @01/22/18  @AZ Southeast                    @
+613008722418    @Arizona, Ex. Swt. Green Tea, Can@e20  @1.0   @1   @76  @01/22/18  @AZ Southeast                    @
+613008730147    @Arizona, Fruit Punch, Big Boy   @e21  @1.5   @2   @6   @12/22/17  @AZ Southeast                    @
+613008725754    @Arizona, Fruit Punch, Bottle    @e22  @1.0   @5   @39  @01/12/18  @AZ Southeast                    @
+613008718763    @Arizona, Fruit Punch, Can       @e23  @1.0   @0   @29  @01/22/18  @AZ Southeast                    @
+613008722883    @Arizona, Georgia Peach          @e24  @1.0   @1   @23  @01/22/18  @AZ Southeast                    @
+613008734008    @Arizona, Golden Bear            @e25  @1.0   @3   @21  @01/22/18  @AZ Southeast                    @
+613008742287    @Arizona, Golden Bear, Bottle    @e26  @1.0   @1   @37  @01/12/18  @AZ Southeast                    @
+613008745905    @Arizona, Green Tea Cucumber, Can@e27  @1.0   @1   @61  @01/12/18  @AZ Southeast                    @
+613008721770    @Arizona, Green Tea, Big Boy     @e28  @1.5   @4   @9   @01/22/18  @AZ Southeast                    @
+613008725716    @Arizona, Green Tea, Bottle      @e29  @1.0   @5   @27  @01/12/18  @AZ Southeast                    @
+613008715267    @Arizona, Green Tea, Can         @e30  @1.0   @4   @48  @01/22/18  @AZ Southeast                    @
+613008720711    @Arizona, Green Tea, Zero        @e31  @1.0   @3   @28  @01/22/18  @AZ Southeast                    @
+613008735159    @Arizona, Iced Tea Lemon, Can    @e32  @1.0   @0   @37  @01/22/18  @AZ Southeast                    @
+613008735432    @Arizona, Kiwi Strawberry, Can   @e33  @1.0   @5   @42  @01/12/18  @AZ Southeast                    @
+613008728069    @Arizona, Low Carb Energy        @e34  @1.0   @0   @24  @01/22/18  @AZ Southeast                    @
+613008742478    @Arizona, Mucho Mango, Big Boy   @e35  @1.5   @1   @21  @01/12/18  @AZ Southeast                    @
+613008725792    @Arizona, Mucho Mango, Bottle    @e36  @1.0   @3   @38  @01/12/18  @AZ Southeast                    @
+613008735418    @Arizona, Mucho Mango, Can       @e37  @1.0   @0   @59  @01/22/18  @AZ Southeast                    @
+613008742256    @Arizona, Mucho Mango, Energy    @e38  @1.0   @0   @0   @12/22/17  @AZ Southeast                    @
+613008733315    @Arizona, RX Energy, Bottle      @e39  @1.0   @4   @37  @01/12/18  @AZ Southeast                    @
+613008718459    @Arizona, RX Energy, Can         @e40  @1.0   @1   @56  @01/22/18  @AZ Southeast                    @
+613008714901    @Arizona, Salsa and Chips        @e41  @1.0   @3   @4   @12/22/17  @AZ Southeast                    @
+613008747985    @Arizona, Spark, BLK Raspberry   @e42  @1.0   @0   @0   @12/22/17  @AZ Southeast                    @
+613008748043    @Arizona, Spark, Strawberry      @e43  @1.0   @0   @0   @12/22/17  @AZ Southeast                    @
+613008722210    @Arizona, Sweet Tea, Big Boy     @e44  @1.5   @0   @13  @01/22/18  @AZ Southeast                    @
+613008725730    @Arizona, Sweet Tea, Bottle      @e45  @1.0   @4   @75  @01/12/18  @AZ Southeast                    @
+613008717711    @Arizona, Sweet Tea, Can         @e46  @1.0   @15  @2   @12/22/17  @AZ Southeast                    @
+613008725877    @Arizona, Vapor Water, Large     @e47  @1.5   @0   @0   @12/22/17  @AZ Southeast                    @
+613008744519    @Arizona, Vapor Water, PH 9.5    @e48  @1.25  @0   @75  @01/22/18  @AZ Southeast                    @
+613008726195    @Arizona, Vapor Water, Small     @e49  @1.25  @2   @47  @01/22/18  @AZ Southeast                    @
+613008742195    @Arizona, Watermelon Energy      @e50  @1.0   @7   @1   @12/22/17  @AZ Southeast                    @
+613008745370    @Arizona, Watermelon, Big Boy    @e51  @1.5   @3   @9   @01/12/18  @AZ Southeast                    @
+613008725778    @Arizona, Watermelon, Bottle     @e52  @1.0   @3   @50  @01/12/18  @AZ Southeast                    @
+613008720209    @Arizona, Watermelon, Can        @e53  @1.0   @0   @37  @01/22/18  @AZ Southeast                    @
+613008731021    @Arizona, White Tea              @e54  @1.0   @0   @0   @12/22/17  @AZ Southeast                    @
+028000010775    @Baby Ruth                       @e55  @1.0   @9   @45  @12/22/17  @Sam's Club                      @
+g78             @Bagel                           @e56  @1.5   @1   @-1  @12/22/17  @Rudy's Subs                     @
+028400436168    @Bakenets, Fried Porkskins       @e57  @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400435741    @Bakenets, Hot & Spicy           @e58  @1.5   @2   @4   @01/22/18  @Frito-Lay                       @
+028400595872    @Bakenets, Pork Skins            @e59  @2.0   @0   @4   @01/22/18  @Frito-Lay                       @
+028400435703    @Bakenets, Traditional           @e60  @1.5   @0   @6   @01/22/18  @Frito-Lay                       @
+049000023923    @Barq's                          @e61  @1.25  @0   @34  @12/22/17  @Coca-Cola                       @
+04900002390     @Barq's, Root Beer               @e62  @1.25  @0   @0   @12/22/17  @Coca-Cola                       @
+049000023855    @Barq's, Root Beer (Can)         @e63  @0.6   @6   @32  @01/16/18  @Coca-Cola                       @
+01406922        @Blow Pop                        @e64  @0.25  @33  @119 @12/22/17  @Sam's Club                      @
+03476406        @Breathsavers, Peppermint        @e65  @0.75  @8   @19  @12/22/17  @Sam's Club                      @
+03476707        @Breathsavers, Wintergreen       @e66  @0.75  @9   @0   @12/22/17  @Sam's Club                      @
+028000202033    @Butterfinger                    @e67  @1.0   @12  @59  @12/22/17  @Sam's Club                      @
+883426040269    @CHCafe, Banana Nut Loaf         @e68  @1.5   @12  @-12 @12/22/17  @McKee Foods                     @
+883426140365    @CHCafe, Pound Cake, Butter      @e69  @1.5   @14  @-14 @12/22/17  @McKee Foods                     @
+883426140372    @CHCafe, Pound Cake, Cream Cheese@e70  @1.5   @0   @0   @12/22/17  @McKee Foods                     @
+883426040283    @CHCafe, Pound Cake, Iced Lemon  @e71  @1.5   @6   @-6  @12/22/17  @McKee Foods                     @
+883426040306    @CHCafe, Pound Cake, P. Spice    @e72  @1.5   @0   @0   @12/22/17  @McKee Foods                     @
+020685001420    @Cape Cod, BBQ                   @e73  @1.5   @1   @16  @01/23/18  @S-L Distribution                @
+020685001390    @Cape Cod, Jalapeno              @e74  @1.5   @2   @19  @01/23/18  @S-L Distribution                @
+020685001376    @Cape Cod, Regular               @e75  @1.5   @2   @31  @01/23/18  @S-L Distribution                @
+020685001383    @Cape Cod, Salt & Vinegar        @e76  @1.5   @2   @14  @01/23/18  @S-L Distribution                @
+020685001437    @Cape Cod, Sea Salt & Pepper     @e77  @1.5   @0   @4   @01/23/18  @S-L Distribution                @
+020685001406    @Cape Cod, Waffle Cut            @e78  @1.5   @2   @21  @01/23/18  @S-L Distribution                @
+g17             @Cappucino, Large                @e79  @1.25  @19  @-19 @12/22/17  @N/A                             @
+g16             @Cappucino, Medium               @e80  @1.0   @1   @-1  @12/22/17  @N/A                             @
+g15             @Cappucino, Small                @e81  @0.75  @18  @-18 @12/22/17  @N/A                             @
+036600813719    @Chapstick, Cherry               @e82  @1.25  @0   @6   @01/18/18  @Sam's Club                      @
+036600828010    @Chapstick, Moisturizer          @e83  @1.25  @1   @5   @01/18/18  @Sam's Club                      @
+036600813313    @Chapstick, Original             @e84  @1.25  @0   @8   @01/18/18  @Sam's Club                      @
+036600814013    @Chapstick, Strawberry           @e85  @1.25  @2   @4   @01/18/18  @Sam's Club                      @
+041716231104    @Cheese Stick                    @e86  @0.6   @0   @0   @12/22/17  @Sam's Club                      @
+02102207        @Cheese Stick, Polly O Mozzy     @e87  @0.5   @97  @-42 @12/22/17  @Sam's Club                      @
+028400435031    @Cheetos                         @e88  @1.5   @4   @-4  @01/12/18  @Frito-Lay                       @
+028400624442    @Cheetos, Bag of Bones           @e89  @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400433181    @Cheetos, Crunchy                @e90  @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400433938    @Cheetos, Crunchy, Flamin' Hot   @e91  @1.5   @3   @0   @01/22/18  @Frito-Lay                       @
+028400434157    @Cheetos, Hot, Lime              @e92  @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400433921    @Cheetos, Jalapeno               @e93  @1.5   @1   @1   @01/22/18  @Frito-Lay                       @
+028400149808    @Cheetos, Mix-ups                @e94  @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400580151    @Cheetos, Oven Baked, Flamin' Hot@e95  @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400638159    @Cheetos, Paws                   @e96  @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400435413    @Cheetos, Puffs, Flamin'         @e97  @1.5   @0   @3   @01/22/18  @Frito-Lay                       @
+024100126606    @Cheezits, White Cheddar         @e98  @0.6   @29  @49  @12/22/17  @Sam's Club                      @
+028400563604    @Chester's, Bacon Cheddar Fries  @e99  @1.5   @3   @0   @12/22/17  @Frito-Lay                       @
+028400002288    @Chester's, Cheese Puffs         @e100 @2.0   @0   @5   @01/22/18  @Frito-Lay                       @
+028400596008    @Chester's, Hot Fries, Large     @e101 @2.0   @2   @-1  @01/22/18  @Frito-Lay                       @
+028400436243    @Chester's, Popcorn Cheddar      @e102 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400003131    @Chester's, Puffs, Butter        @e103 @2.0   @0   @2   @01/22/18  @Frito-Lay                       @
+366715973214    @Claritin                        @e104 @1.65  @2   @4   @12/22/17  @NEX Vending                     @
+722252101808    @Clif Bar, Chocolate Brownie     @e105 @2.0   @3   @19  @01/16/18  @NEX Vending                     @
+722252100900    @Clif Bar, Chocolate Chip        @e106 @2.0   @10  @11  @12/22/17  @NEX Vending                     @
+722252500038    @Clif Bar, Oatmeal Raisin        @e107 @2.0   @3   @23  @01/16/18  @NEX Vending                     @
+722252101204    @Clif Bar, Peanut Butter         @e108 @2.0   @3   @19  @01/16/18  @NEX Vending                     @
+722252161093    @Clif Bar, White Choc. Mac. Nut  @e109 @2.0   @5   @19  @12/22/17  @NEX Vending                     @
+g5              @Coffee, Large                   @e110 @1.0   @515 @-515@12/22/17  @N/A                             @
+g101            @Coffee, Re-Fill, 12 oz.         @e111 @0.4   @63  @-63 @12/22/17  @N/A                             @
+g102            @Coffee, Re-Fill, 13-16 oz.      @e112 @0.65  @51  @-51 @12/22/17  @N/A                             @
+g103            @Coffee, Re-Fill, 17-20 oz.      @e113 @1.0   @48  @-48 @12/22/17  @N/A                             @
+g104            @Coffee, Re-Fill, 21-24 oz.      @e114 @1.0   @11  @-11 @12/22/17  @N/A                             @
+g105            @Coffee, Re-Fill, 25-36 oz.      @e115 @1.25  @3   @-3  @12/22/17  @N/A                             @
+g106            @Coffee, Re-Fill, 37 oz. & Up    @e116 @1.5   @0   @0   @12/22/17  @N/A                             @
+g4              @Coffee, Regular                 @e117 @0.75  @8   @-8  @12/22/17  @N/A                             @
+g3              @Coffee, Small                   @e118 @0.5   @458 @-458@12/22/17  @N/A                             @
+04904403        @Coke                            @e119 @1.25  @4   @57  @01/22/18  @Coca-Cola                       @
+04963406        @Coke (Can)                      @e120 @0.6   @6   @84  @01/22/18  @Coca-Cola                       @
+049000018011    @Coke, Cherry                    @e121 @1.25  @25  @23  @12/22/17  @Coca-Cola                       @
+04904500        @Coke, Diet                      @e122 @1.25  @18  @14  @12/22/17  @Coca-Cola                       @
+04965802        @Coke, Diet (Can)                @e123 @0.6   @10  @31  @01/16/18  @Coca-Cola                       @
+049000031171    @Coke, Vanilla                   @e124 @1.25  @19  @5   @12/22/17  @Coca-Cola                       @
+04936509        @Coke, Vanilla (Can)             @e125 @0.6   @10  @28  @01/08/18  @Coca-Cola                       @
+049000040869    @Coke, Zero                      @e126 @1.25  @16  @8   @12/22/17  @Coca-Cola                       @
+049000042566    @Coke, Zero (Can)                @e127 @0.6   @3   @53  @01/22/18  @Coca-Cola                       @
+049000047547    @Coke, Zero, Cherry              @e128 @1.25  @19  @9   @01/08/18  @Coca-Cola                       @
+049000048247    @Coke, Zero, Vanilla (Can)       @e129 @0.6   @6   @28  @12/22/17  @Coca-Cola                       @
+041419714713    @Combos, Cheese                  @e130 @0.55  @17  @-3  @12/22/17  @Sam's Club                      @
+041419714751    @Combos, Pizza                   @e131 @0.55  @7   @20  @01/18/18  @Sam's Club                      @
+g244            @Command Item, Belt Buckle       @e132 @15.0  @0   @0   @12/22/17  @N/A                             @
+g202            @Command Item, Coin              @e133 @6.0   @1   @-1  @12/22/17  @N/A                             @
+g210            @Command Item, Cover             @e134 @15.0  @7   @-7  @12/22/17  @N/A                             @
+g203            @Command Item, Patch             @e135 @6.0   @0   @0   @12/22/17  @N/A                             @
+g214            @Command Item, T-Shirt           @e136 @10.0  @1   @-1  @12/22/17  @N/A                             @
+g221            @Command Item, Zippo             @e137 @20.0  @0   @0   @12/22/17  @N/A                             @
+856312002207    @Core Power, Chocolate           @e138 @3.0   @2   @14  @12/22/17  @PBC                             @
+856312002238    @Core Power, Strawberry Banana   @e139 @3.0   @3   @14  @01/16/18  @PBC                             @
+028400172516    @Cracker Jack, Original          @e140 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+g18             @Creamer                         @e141 @0.15  @448 @-433@12/22/17  @Sam's Club                      @
+078000013283    @Crush, Orange                   @e142 @1.25  @2   @26  @01/12/18  @PBC                             @
+049000072396    @DDonuts IC, French Vanilla      @e143 @2.0   @7   @9   @12/22/17  @Coca-Cola                       @
+049000072389    @DDonuts IC, Mocha               @e144 @2.0   @9   @7   @01/08/18  @Coca-Cola                       @
+049000072372    @DDonuts IC, Original            @e145 @2.0   @3   @19  @12/22/17  @Coca-Cola                       @
+038200000063    @Dill Pickle                     @e146 @1.0   @9   @22  @12/22/17  @Sam's Club                      @
+02845637        @Dip Cup, Creamy Ranch           @e147 @1.0   @0   @1   @01/22/18  @Frito-Lay                       @
+028400420716    @Doritos, Cooler Ranch           @e148 @1.5   @8   @0   @01/12/2018@Frito-Lay                       @
+028400670555    @Doritos, Crunch Nuts, Cool ranch@e149 @2.0   @0   @6   @01/22/18  @Frito-Lay                       @
+028400670548    @Doritos, Crunch Nuts, Nacho Cheese@e150 @2.0   @0   @4   @01/22/18  @Frito-Lay                       @
+028400421157    @Doritos, Flamas                 @e151 @1.5   @0   @1   @01/22/18  @Frito-Lay                       @
+028400436342    @Doritos, Jacked                 @e152 @1.5   @2   @0   @12/22/17  @Frito-Lay                       @
+028400420730    @Doritos, Nacho Cheese           @e153 @1.5   @0   @0   @01/22/18  @Frito-Lay                       @
+028400420754    @Doritos, Spicy Nacho            @e154 @1.5   @2   @1   @01/22/18  @Frito-Lay                       @
+028400421195    @Doritos, Spicy Sweet Chili      @e155 @1.5   @0   @3   @01/22/18  @Frito-Lay                       @
+028400589192    @Doritos, Tacos                  @e156 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+040000459859    @Dove, Dark Chocolate            @e157 @1.0   @12  @17  @12/22/17  @Sam's Club                      @
+078000082401    @Dr. Pepper                      @e158 @1.25  @12  @0   @01/18/18  @PBC                             @
+078000083408    @Dr. Pepper, Diet                @e159 @1.25  @11  @22  @12/22/17  @PBC                             @
+072554001604    @Drumstick                       @e160 @1.0   @11  @-6  @12/22/17  @Sam's Club                      @
+072554001628    @Drumstick, Vanilla Caramel      @e161 @1.0   @6   @-6  @12/22/17  @Sam's Club                      @
+072554001697    @Drumstick, Vanilla Fudge        @e162 @1.0   @2   @11  @01/18/18  @Sam's Club                      @
+g82             @Eggs                            @e163 @1.5   @0   @-5  @01/22/18  @Rudy's Subs                     @
+076677100145    @Famous Amos, Chocolate Chip     @e164 @0.55  @26  @62  @12/22/17  @Sam's Club                      @
+077865006515    @Fat Boy, Ice Cream              @e165 @0.75  @5   @0   @01/18/18  @Sam's Club                      @
+016000504622    @Fiber One                       @e166 @0.75  @4   @53  @01/18/18  @Sam's Club                      @
+016000504639    @Fiber One, Oats and P. Butter   @e167 @0.75  @1   @57  @01/18/18  @Sam's Club                      @
+041420162657    @Fireball                        @e168 @0.05  @52  @-52 @12/22/17  @Sam's Club                      @
+028400595971    @Fried Porkskins                 @e169 @2.0   @0   @3   @01/22/18  @Frito-Lay                       @
+028400419222    @Fritos, Chili Cheese            @e170 @1.5   @2   @1   @01/22/18  @Frito-Lay                       @
+028400420495    @Fritos, Original                @e171 @1.5   @1   @3   @01/22/18  @Frito-Lay                       @
+038000219634    @Frosted Flakes                  @e172 @0.75  @0   @0   @12/22/17  @Sam's Club                      @
+g55             @Fruit, Apple                    @e173 @1.0   @14  @-5  @12/22/17  @Sam's Club                      @
+g56             @Fruit, Banana                   @e174 @0.5   @10  @-10 @12/22/17  @Sam's Club                      @
+g57             @Fruit, Clementine               @e175 @0.5   @32  @-22 @12/22/17  @Sam's Club                      @
+815154020237    @Full Throttle, Blue Agave       @e176 @2.0   @2   @42  @01/16/18  @Coca-Cola                       @
+815154020183    @Full Throttle, Citrus           @e177 @2.0   @5   @35  @01/16/18  @Coca-Cola                       @
+028400282123    @Funyuns, Hot                    @e178 @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400282048    @Funyuns, Onion                  @e179 @1.5   @1   @0   @01/22/18  @Frito-Lay                       @
+080793808670    @Fuze, Iced Tea (Can)            @e180 @0.6   @1   @27  @01/22/18  @Coca-Cola                       @
+052000324815    @Gatorade, Cool Blue             @e181 @1.0   @7   @17  @01/18/18  @NEX Vending                     @
+052000324822    @Gatorade, Fierce Grape          @e182 @1.0   @11  @33  @01/16/18  @NEX Vending                     @
+052000328660    @Gatorade, Fruit Punch           @e183 @1.0   @7   @62  @01/18/18  @NEX Vending                     @
+052000328684    @Gatorade, Lemon Lime            @e184 @1.0   @6   @53  @01/18/18  @NEX Vending                     @
+052000200041    @Gatorade, Melon                 @e185 @1.0   @9   @31  @01/18/18  @NEX Vending                     @
+052000324884    @Gatorade, Riptide Rush          @e186 @1.0   @10  @40  @01/18/18  @NEX Vending                     @
+890000001073    @GoGo Apple Sauce                @e187 @0.5   @0   @58  @12/22/17  @Sam's Club                      @
+890000001004    @GoGo Squeeze                    @e188 @0.5   @10  @-10 @12/22/17  @Sam's Club                      @
+890000001042    @GoGo Squeeze                    @e189 @0.5   @4   @-4  @12/22/17  @Sam's Club                      @
+890000001011    @GoGo Squeeze                    @e190 @0.5   @4   @-4  @12/22/17  @Sam's Club                      @
+049000067927    @Gold Peak, Raspberry Tea        @e191 @1.25  @1   @65  @01/22/18  @Coca-Cola                       @
+083900005757    @Gold Peak, Sweet Tea            @e192 @1.25  @0   @31  @01/22/18  @Coca-Cola                       @
+028400043144    @Grandma's Cookies, Brownie      @e193 @1.0   @0   @0   @01/22/18  @Frito-Lay                       @
+028400043274    @Grandma's Cookies, Choc. Chip   @e194 @1.0   @0   @10  @01/22/18  @Frito-Lay                       @
+028400441285    @Grandma's Cookies, Lemon        @e195 @1.0   @8   @0   @12/22/17  @Frito-Lay                       @
+028400043366    @Grandma's Cookies, OM Raisin    @e196 @1.0   @0   @10  @01/22/18  @Frito-Lay                       @
+028400001533    @Grandma's Cookies, PButter      @e197 @1.0   @1   @9   @01/22/18  @Frito-Lay                       @
+028400043205    @Grandma's Cookies, PButter (Bag)@e198 @1.0   @1   @8   @01/22/18  @Frito-Lay                       @
+028400167024    @Grandma's Cookies, Strawberry   @e199 @1.0   @1   @0   @12/22/17  @Frito-Lay                       @
+028400001526    @Grandma's Cookies, Vanilla      @e200 @1.0   @1   @8   @01/22/18  @Frito-Lay                       @
+028400089913    @Grandma's Cookies, Vanilla (Bag)@e201 @1.0   @1   @9   @01/22/18  @Frito-Lay                       @
+g65             @Gum, Pack                       @e202 @0.35  @9   @45  @01/18/18  @Sam's Club                      @
+03422104        @Hershey's, Almonds, King-Size   @e203 @1.5   @0   @0   @12/22/17  @Sam's Club                      @
+034000196067    @Hershey's, C&Creme, King-Size   @e204 @1.5   @0   @64  @12/22/17  @Sam's Club                      @
+03423909        @Hershey's, Cookies and Creme    @e205 @1.0   @14  @-14 @12/22/17  @Sam's Club                      @
+03424005        @Hershey's, M. Choc.             @e206 @1.0   @7   @105 @12/22/17  @Sam's Club                      @
+03424102        @Hershey's, M. Choc. and Almonds @e207 @1.0   @15  @59  @12/22/17  @Sam's Club                      @
+028400417723    @Honey BBQ Twists                @e208 @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400437745    @Hot Fries                       @e209 @1.5   @3   @-2  @01/22/18  @Frito-Lay                       @
+043695000122    @Hot Pocket, Ham & Cheese        @e210 @1.5   @0   @0   @12/22/17  @Sam's Club                      @
+043695000115    @Hot Pocket, Pepperoni           @e211 @1.5   @0   @24  @12/22/17  @Sam's Club                      @
+043695033007    @Hot Pocket, Pizza               @e212 @1.5   @1   @27  @01/16/18  @Sam's Club                      @
+366715973931    @Ibuprofen                       @e213 @1.5   @1   @0   @01/16/18  @NEX Vending                     @
+g76             @Ice Cream                       @e214 @1.0   @0   @0   @12/22/17  @Sam's Club                      @
+028400037532    @Isleno, Original Plantain Chips @e215 @1.5   @1   @2   @01/22/18  @Frito-Lay                       @
+077900147630    @Jimmy Dean, Biscuit             @e216 @0.75  @0   @0   @12/22/17  @Sam's Club                      @
+053400354310    @Jimmy Dean, Croissant, SEC      @e217 @1.25  @2   @7   @01/18/18  @Sam's Club                      @
+077900354434    @Jimmy Dean, Delights            @e218 @1.0   @0   @0   @12/22/17  @Sam's Club                      @
+077900137273    @Jimmy Dean, SEC                 @e219 @1.0   @0   @0   @12/22/17  @Sam's Club                      @
+084114900180    @Kettle Chips, BBQ               @e220 @1.5   @11  @0   @12/22/17  @S-L Distribution                @
+084114900203    @Kettle Chips, Salt & Pepper     @e221 @1.5   @8   @-8  @12/22/17  @S-L Distribution                @
+084114900197    @Kettle Chips, Salt & Vinegar    @e222 @1.5   @7   @0   @12/22/17  @S-L Distribution                @
+028400437837    @Kettle Cooked, Jalapeno         @e223 @1.5   @1   @20  @01/22/18  @S-L Distribution                @
+012000043000    @Kickstart, Black Cherry         @e224 @2.0   @2   @14  @01/18/18  @PBC                             @
+012000151217    @Kickstart, Blood Orange         @e225 @2.0   @2   @13  @12/22/17  @PBC                             @
+012000151200    @Kickstart, Blueberry            @e226 @2.0   @0   @20  @01/18/18  @PBC                             @
+012000110467    @Kickstart, Fruit Punch          @e227 @2.0   @2   @7   @01/12/18  @PBC                             @
+012000162152    @Kickstart, Mango Lime           @e228 @2.0   @1   @18  @01/18/18  @PBC                             @
+012000151163    @Kickstart, Midnight Grape       @e229 @2.0   @4   @7   @01/12/18  @PBC                             @
+012000110443    @Kickstart, Orange Citrus        @e230 @2.0   @15  @0   @12/22/17  @PBC                             @
+012000141430    @Kickstart, Pineapple            @e231 @2.0   @7   @1   @12/22/17  @PBC                             @
+012000162473    @Kickstart, Raspberry Citrus     @e232 @2.0   @0   @19  @01/18/18  @PBC                             @
+012000151194    @Kickstart, Watermelon           @e233 @2.0   @4   @23  @12/22/17  @PBC                             @
+03424607        @Kit-Kat                         @e234 @1.0   @17  @60  @12/22/17  @Sam's Club                      @
+034000245246    @Kit-Kat, Big Kat                @e235 @1.0   @15  @10  @12/22/17  @Sam's Club                      @
+03405408        @Kit-Kat, White chocolate        @e236 @1.0   @0   @0   @12/22/17  @Sam's Club                      @
+g77             @Laffy Taffy, Generic            @e237 @0.1   @31  @352 @12/22/17  @Sam's Club                      @
+076410903071    @Lance, Blueberry Muffin         @e238 @0.5   @0   @0   @12/22/17  @S-L Distribution                @
+076410900667    @Lance, Boston Old Style         @e239 @1.0   @1   @6   @12/22/17  @S-L Distribution                @
+076410902173    @Lance, CRKR, Jalapeno Cheddar   @e240 @0.5   @15  @38  @12/22/17  @S-L Distribution                @
+076410901855    @Lance, Cap. WC, CCheese, Chive  @e241 @0.5   @1   @9   @01/23/18  @S-L Distribution                @
+076410901879    @Lance, Cap. WC, Grilled Cheese  @e242 @0.5   @18  @2   @12/22/17  @S-L Distribution                @
+076410901848    @Lance, Cap. WC, PB, Honey       @e243 @0.5   @1   @20  @01/23/18  @S-L Distribution                @
+076410900841    @Lance, Cashews                  @e244 @1.3   @19  @8   @12/22/17  @S-L Distribution                @
+076410903507    @Lance, Chipotle, Peanuts        @e245 @0.5   @0   @0   @12/22/17  @S-L Distribution                @
+076410903484    @Lance, DP, Peanuts              @e246 @0.5   @5   @10  @01/16/18  @S-L Distribution                @
+076410088433    @Lance, Golden Cheese            @e247 @1.0   @1   @18  @01/16/18  @S-L Distribution                @
+076410904269    @Lance, Honey Roasted            @e248 @0.5   @12  @-1  @12/22/17  @S-L Distribution                @
+076410900636    @Lance, Hot & Spicy              @e249 @0.5   @17  @38  @01/02/18  @S-L Distribution                @
+076410902838    @Lance, Jalapeno Cheddar         @e250 @0.5   @0   @28  @12/22/17  @S-L Distribution                @
+076410903828    @Lance, Lemon Creme              @e251 @0.5   @18  @8   @12/22/17  @S-L Distribution                @
+076410901305    @Lance, Malt, Peanut Butter      @e252 @0.5   @4   @26  @01/16/18  @S-L Distribution                @
+076410901817    @Lance, Nip Cheese, Cheddar      @e253 @0.5   @0   @0   @12/22/17  @S-L Distribution                @
+076410900742    @Lance, Nuts, Honey Roasted      @e254 @0.5   @22  @18  @01/02/18  @S-L Distribution                @
+076410901312    @Lance, Peanut Butter            @e255 @0.5   @6   @44  @01/16/18  @S-L Distribution                @
+076410901626    @Lance, Peanut Butter            @e256 @0.5   @15  @5   @12/22/17  @S-L Distribution                @
+076410902814    @Lance, Peanuts, Ranch           @e257 @0.5   @23  @19  @12/26/17  @S-L Distribution                @
+076410900612    @Lance, Peanuts, Salted          @e258 @0.5   @7   @63  @01/16/18  @S-L Distribution                @
+076410093642    @Lance, Popcorn                  @e259 @1.5   @1   @17  @01/23/18  @S-L Distribution                @
+076410904788    @Lance, Salted & Caramel         @e260 @0.5   @7   @10  @12/22/17  @S-L Distribution                @
+076410084565    @Lance, Snack Mix                @e261 @1.0   @3   @12  @12/22/17  @S-L Distribution                @
+076410900681    @Lance, Starbites                @e262 @1.0   @10  @16  @12/26/17  @S-L Distribution                @
+076410094250    @Lance, Sunflower Seeds          @e263 @0.5   @8   @38  @01/16/18  @S-L Distribution                @
+028400654135    @Lance, Sunflower Seeds, BBQ     @e264 @0.5   @2   @-2  @12/22/17  @S-L Distribution                @
+076410904351    @Lance, Sunflower Seeds, Ranch   @e265 @0.5   @11  @-2  @12/22/17  @S-L Distribution                @
+076410901633    @Lance, TC, Peanut Butter        @e266 @0.5   @4   @16  @01/23/18  @S-L Distribution                @
+076410903934    @Lance, Toast, PBJ               @e267 @0.5   @14  @4   @12/22/17  @S-L Distribution                @
+076410903972    @Lance, Vanilla Creme            @e268 @0.5   @9   @-9  @12/22/17  @S-L Distribution                @
+076410903996    @Lance, Vanilla Creme, Chocolate @e269 @0.5   @0   @0   @12/22/17  @S-L Distribution                @
+076410012360    @Lance, White Cheddar Popcorn    @e270 @1.5   @3   @15  @01/16/18  @S-L Distribution                @
+815099020347    @Late July, Bacon Habanero       @e271 @1.5   @0   @23  @01/23/18  @S-L Distribution                @
+815099020323    @Late July, Jalapeno-Lime        @e272 @1.5   @0   @26  @01/23/18  @S-L Distribution                @
+815099020330    @Late July, Nacho Chipotle       @e273 @1.5   @1   @31  @01/23/18  @S-L Distribution                @
+028400420532    @Lay's, Chips, BBQ               @e274 @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400420549    @Lay's, Chips, Classic           @e275 @1.5   @3   @3   @01/22/18  @Frito-Lay                       @
+028400420662    @Lay's, Chips, Dill Pickle       @e276 @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400420624    @Lay's, Chips, Flamin' Hot       @e277 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400420525    @Lay's, Chips, Honey BBQ         @e278 @1.5   @3   @1   @01/22/18  @Frito-Lay                       @
+028400437752    @Lay's, Chips, Oven Baked        @e279 @1.5   @2   @2   @01/12/18  @Frito-Lay                       @
+028400420617    @Lay's, Chips, SC & Onion        @e280 @1.5   @1   @3   @01/22/18  @Frito-Lay                       @
+028400420556    @Lay's, Chips, Salt & Vinegar    @e281 @1.5   @0   @5   @01/22/18  @Frito-Lay                       @
+028400420655    @Lay's, Chips, Sweet Southern    @e282 @1.5   @2   @0   @01/12/18  @Frito-Lay                       @
+084114900210    @Lay's, Kettle Cooked, Jalepeno  @e283 @1.5   @8   @-5  @12/22/17  @Frito-Lay                       @
+028400437851    @Lay's, Kettle Cooked, Mesq. BBQ @e284 @1.5   @0   @7   @01/22/18  @Frito-Lay                       @
+028400437868    @Lay's, Kettle Cooked, Original  @e285 @1.5   @0   @5   @01/22/18  @Frito-Lay                       @
+028400437844    @Lay's, Kettle Cooked, Sea Salt  @e286 @1.5   @0   @3   @01/22/18  @Frito-Lay                       @
+012000012754    @Lipton, Green Tea Citrus        @e287 @1.25  @2   @21  @01/12/18  @PBC                             @
+024300865923    @Little Debbie, CPie, Choc. Chip @e288 @0.5   @0   @5   @01/19/18  @McKee Foods                     @
+024300867613    @Little Debbie, CPie, DBL Decker @e289 @1.0   @0   @9   @01/19/18  @McKee Foods                     @
+024300835612    @Little Debbie, CPie, Oatmeal    @e290 @0.5   @4   @14  @01/19/18  @McKee Foods                     @
+024300835469    @Little Debbie, CPie, Raisin     @e291 @0.5   @0   @0   @12/22/17  @McKee Foods                     @
+024300865909    @Little Debbie, Choc. Cupcakes   @e292 @1.0   @0   @6   @01/19/18  @McKee Foods                     @
+024300837869    @Little Debbie, Cosmic Brownie   @e293 @1.5   @1   @10  @01/19/18  @McKee Foods                     @
+024300865107    @Little Debbie, Donut Sticks     @e294 @0.5   @2   @23  @01/19/18  @McKee Foods                     @
+024300837852    @Little Debbie, Donuts, Crunch   @e295 @1.0   @3   @9   @01/19/18  @McKee Foods                     @
+024300835209    @Little Debbie, Donuts, Frosted  @e296 @1.0   @2   @-9  @01/19/18  @McKee Foods                     @
+024300835261    @Little Debbie, Donuts, Glazed   @e297 @1.0   @9   @1   @01/12/18  @McKee Foods                     @
+024300835216    @Little Debbie, Donuts, Powdered @e298 @1.0   @1   @5   @01/19/18  @McKee Foods                     @
+024300841996    @Little Debbie, Fruit Pie, Apple @e299 @1.0   @0   @10  @01/19/18  @McKee Foods                     @
+024300865367    @Little Debbie, Fudge Brownie    @e300 @1.5   @0   @6   @01/19/18  @McKee Foods                     @
+024300835919    @Little Debbie, Fudge Round      @e301 @0.5   @2   @18  @01/19/18  @McKee Foods                     @
+024300839382    @Little Debbie, Honey Bun        @e302 @0.5   @10  @43  @01/19/18  @McKee Foods                     @
+024300865411    @Little Debbie, Iced Honey Bun   @e303 @1.0   @0   @11  @01/19/18  @McKee Foods                     @
+024300835667    @Little Debbie, Nutty Buddy      @e304 @0.5   @6   @19  @01/19/18  @McKee Foods                     @
+024300837968    @Little Debbie, Pecan Spinwheels @e305 @1.0   @7   @1   @01/12/18  @McKee Foods                     @
+024300837340    @Little Debbie, SSCake Roll      @e306 @0.5   @0   @26  @01/19/18  @McKee Foods                     @
+024300835322    @Little Debbie, Star Crunch      @e307 @0.5   @0   @6   @01/19/18  @McKee Foods                     @
+024300835711    @Little Debbie, Swiss Rolls      @e308 @0.5   @4   @6   @01/19/18  @McKee Foods                     @
+024300835933    @Little Debbie, Zebra Cake       @e309 @0.5   @2   @14  @01/19/18  @McKee Foods                     @
+024300865954    @Little Debbie, Zebra Cake, Large@e310 @1.0   @0   @12  @01/19/18  @McKee Foods                     @
+g70             @Lunchables                      @e311 @1.5   @10  @-15 @01/18/18  @Sam's Club                      @
+04003100        @M&M's, Milk Chocolate           @e312 @1.0   @4   @121 @12/22/17  @Sam's Club                      @
+04003207        @M&M's, Peanuts                  @e313 @1.0   @23  @57  @12/22/17  @Sam's Club                      @
+028400601269    @Matador, Flamin' Hot, Stick     @e314 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400601276    @Matador, Mild, Stick            @e315 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400601320    @Matador, Original               @e316 @7.0   @0   @3   @12/22/17  @Frito-Lay                       @
+028400601252    @Matador, Original, Stick        @e317 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400601863    @Matador, Peppered               @e318 @7.0   @3   @0   @12/22/17  @Frito-Lay                       @
+028400601870    @Matador, Sweet & Hot            @e319 @7.0   @0   @0   @12/22/17  @Frito-Lay                       @
+028400601290    @Matador, Teriyaki               @e320 @7.0   @0   @0   @12/22/17  @Frito-Lay                       @
+049000016796    @Mello Yello                     @e321 @1.25  @0   @71  @01/08/18  @Coca-Cola                       @
+073390000110    @Mentos                          @e322 @1.0   @19  @-15 @12/22/17  @Sam's Club                      @
+815473010513    @Milk, Chocolate                 @e323 @1.5   @19  @-18 @12/22/17  @NEX Vending                     @
+815473010476    @Milk, White                     @e324 @1.5   @9   @19  @12/22/17  @NEX Vending                     @
+040000422068    @Milky Way                       @e325 @1.0   @9   @92  @12/22/17  @Sam's Club                      @
+04040101        @Milky Way, King-Size            @e326 @1.5   @0   @0   @12/22/17  @Sam's Club                      @
+025000056017    @Minute Maid, Apple Juice        @e327 @1.5   @13  @19  @12/22/17  @Coca-Cola                       @
+025000056031    @Minute Maid, Orange Juice       @e328 @1.5   @7   @15  @01/16/18  @Coca-Cola                       @
+025000018749    @Minute Maid, Tropical Blend     @e329 @1.5   @2   @22  @01/16/18  @Coca-Cola                       @
+070847811169    @Monster                         @e330 @2.0   @9   @42  @01/22/18  @Coca-Cola                       @
+070847000037    @Monster, Absolute Zero          @e331 @2.0   @12  @27  @12/22/17  @Coca-Cola                       @
+070847012474    @Monster, Energy Zero, Ultra     @e332 @2.0   @16  @28  @01/16/18  @Coca-Cola                       @
+070847024965    @Monster, Hydro, Manic Melon     @e333 @2.0   @11  @9   @12/22/17  @Coca-Cola                       @
+070847024941    @Monster, Hydro, Mean Green      @e334 @2.0   @7   @10  @12/22/17  @Coca-Cola                       @
+070847024927    @Monster, Hydro, Tropical Thunder@e335 @2.0   @4   @7   @01/16/18  @Coca-Cola                       @
+070847812715    @Monster, Java, Loca Moca        @e336 @2.25  @6   @6   @01/08/18  @Coca-Cola                       @
+070847812609    @Monster, Java, Mean Bean        @e337 @2.25  @17  @0   @01/08/18  @Coca-Cola                       @
+070847813101    @Monster, Java, Vanilla          @e338 @2.25  @9   @13  @01/08/18  @Coca-Cola                       @
+070847029014    @Monster, Juice, Mango Loco      @e339 @2.0   @9   @12  @01/16/18  @Coca-Cola                       @
+070847022909    @Monster, Juice, Pipeline Punch  @e340 @2.0   @7   @15  @01/16/18  @Coca-Cola                       @
+070847811268    @Monster, Lo-Carb                @e341 @2.0   @0   @34  @01/22/18  @Coca-Cola                       @
+070847003229    @Monster, Rehab, Lemonade        @e342 @2.0   @2   @19  @01/22/18  @Coca-Cola                       @
+070847015246    @Monster, Rehab, Pink Lemonade   @e343 @2.0   @12  @6   @12/22/17  @Coca-Cola                       @
+070847006145    @Monster, Rehab, Raspberry       @e344 @2.0   @13  @7   @12/22/17  @Coca-Cola                       @
+070847020905    @Monster, Sunrise                @e345 @2.0   @0   @42  @01/22/18  @Coca-Cola                       @
+070847016205    @Monster, Ultra Blue             @e346 @2.0   @2   @35  @01/22/18  @Coca-Cola                       @
+070847017554    @Monster, Ultra Red              @e347 @2.0   @9   @15  @12/22/17  @Coca-Cola                       @
+070847027324    @Monster, Ultraviolet            @e348 @2.0   @3   @32  @01/22/18  @Coca-Cola                       @
+366715971210    @Motrin                          @e349 @1.5   @3   @1   @01/16/18  @NEX Vending                     @
+01213104        @Mountain Dew                    @e350 @1.25  @15  @23  @01/18/18  @PBC                             @
+01222403        @Mountain Dew, Code Red          @e351 @1.25  @3   @20  @01/12/18  @PBC                             @
+01213405        @Mountain Dew, Diet              @e352 @1.25  @18  @1   @01/12/18  @PBC                             @
+012000170850    @Mountain Dew, Lemon Lime        @e353 @1.25  @2   @31  @01/18/18  @Pepsi                           @
+012000028625    @Mountain Dew, Voltage           @e354 @1.25  @4   @26  @01/12/18  @PBC                             @
+g75             @Muffin                          @e355 @1.5   @12  @-21 @01/22/18  @Rudy's Subs                     @
+01291005        @Mug's, Root Beer                @e356 @1.25  @0   @38  @01/18/18  @PBC                             @
+028400006200    @Munchies, CRKR, Jalapeno Cheddar@e357 @0.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400005784    @Munchies, Cheddar Cheese        @e358 @0.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400436182    @Munchies, Cheesefix             @e359 @0.5   @0   @0   @12/22/17  @Frito-Lay                       @
+028400041799    @Munchies, Flamin' Hot           @e360 @0.5   @11  @1   @12/22/17  @Frito-Lay                       @
+028400041775    @Munchies, Honey Roasted         @e361 @0.5   @13  @8   @12/22/17  @Frito-Lay                       @
+028400026864    @Munchies, Peanut Butter         @e362 @0.5   @0   @2   @12/22/17  @Frito-Lay                       @
+028400041768    @Munchies, Salted                @e363 @0.5   @16  @0   @12/22/17  @Frito-Lay                       @
+028400437653    @Munchos                         @e364 @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400190794    @Munchos (Large)                 @e365 @2.0   @0   @4   @01/22/18  @Frito-Lay                       @
+876063002011    @Muscle Milk, Chocolate          @e366 @3.25  @3   @10  @01/12/18  @PBC                             @
+876063002042    @Muscle Milk, Cookies and Cream  @e367 @3.25  @3   @25  @01/12/18  @PBC                             @
+876063002028    @Muscle Milk, Vanilla Creme      @e368 @3.25  @1   @-1  @12/22/17  @PBC                             @
+815154020008    @NOS                             @e369 @2.0   @3   @17  @01/18/18  @NEX Vending                     @
+082592727152    @Naked Juice, Blueberry          @e370 @3.25  @11  @11  @12/22/17  @PBC                             @
+082592720153    @Naked Juice, Green Machine      @e371 @3.25  @7   @3   @01/18/18  @PBC                             @
+082592660152    @Naked Juice, Mighty Mango       @e372 @3.25  @6   @2   @01/18/18  @PBC                             @
+082592194152    @Naked Juice, Strawberry Banana  @e373 @3.25  @1   @6   @01/18/18  @PBC                             @
+016000264694    @Nature Valley, Oats and Honey   @e374 @0.75  @8   @109 @01/18/18  @Sam's Club                      @
+016000442825    @Nature Valley, Peanut           @e375 @0.75  @16  @48  @12/22/17  @Sam's Club                      @
+016000507661    @Nature Valley, Protein          @e376 @0.75  @5   @0   @12/22/17  @Sam's Club                      @
+079200173067    @Nerd's Rope                     @e377 @1.0   @8   @61  @12/22/17  @Sam's Club                      @
+028000131708    @Nestle, Crunch Bar              @e378 @1.0   @0   @0   @12/22/17  @Sam's Club                      @
+028400459563    @Nut Harvest, Mixed Nuts         @e379 @2.0   @2   @6   @01/22/18  @Frito-Lay                       @
+028400459518    @Nut Harvest, Nut n' Chocolate   @e380 @2.0   @7   @2   @12/22/17  @Frito-Lay                       @
+028400459594    @Nut Harvest, Nut n' Fruit       @e381 @2.0   @8   @0   @12/22/17  @Frito-Lay                       @
+028400459587    @Nut Harvest, Pistachio in Shell @e382 @2.0   @0   @7   @01/22/18  @Frito-Lay                       @
+028400459556    @Nut Harvest, Whole Cashews      @e383 @2.0   @2   @5   @01/22/18  @Frito-Lay                       @
+g71             @Oatmeal                         @e384 @0.25  @43  @24  @12/22/17  @Sam's Club                      @
+012000021367    @Ocean Spray, Cranberry          @e385 @1.5   @10  @4   @12/22/17  @PBC                             @
+044000047009    @Oreo                            @e386 @0.75  @24  @26  @12/22/17  @Sam's Club                      @
+077900334986    @Pancakes/Sausage-on-a-Stick     @e387 @0.75  @0   @0   @12/22/17  @Sam's Club                      @
+010700807274    @Payday, King-Size               @e388 @1.5   @0   @0   @12/22/17  @Sam's Club                      @
+028400078344    @Peanuts, Salted in Shell        @e389 @0.5   @2   @11  @01/22/18  @Frito-Lay                       @
+076410904764    @Peanuts, Tabasco                @e390 @0.5   @5   @28  @12/22/17  @Frito-Lay                       @
+01212901        @Pepsi                           @e391 @1.25  @8   @-17 @01/18/18  @PBC                             @
+012000381201    @Pepsi, Cherry Vanilla           @e392 @1.25  @4   @30  @01/18/18  @PBC                             @
+01213007        @Pepsi, Diet                     @e393 @1.25  @13  @14  @01/12/18  @PBC                             @
+012000163562    @Pepsi, Fire                     @e394 @1.25  @0   @0   @12/22/17  @PBC                             @
+01255906        @Pepsi, Wild Cherry              @e395 @1.25  @15  @4   @01/12/18  @PBC                             @
+012000018800    @Pepsi, Zero                     @e396 @1.25  @7   @30  @12/22/17  @PBC                             @
+021000611201    @Philadelphia, Cream Cheese      @e397 @0.5   @4   @51  @12/22/17  @Sam's Club                      @
+049000029796    @Pibb Xtra                       @e398 @1.25  @11  @13  @12/22/17  @Coca-Cola                       @
+049000029901    @Pibb Xtra (Can)                 @e399 @0.6   @9   @31  @01/16/18  @Coca-Cola                       @
+g83             @Pita                            @e400 @4.0   @20  @-20 @12/22/17  @Rudy's Subs                     @
+038000311314    @Pop-Tarts, Brown Sugar          @e401 @1.0   @8   @72  @12/22/17  @Sam's Club                      @
+038000317316    @Pop-Tarts, Strawberry           @e402 @1.0   @18  @71  @12/22/17  @Sam's Club                      @
+076410012360    @Popcorn, Cheddar                @e403 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+076410904245    @Popcorn, Hot Cheese             @e404 @1.5   @12  @-12 @12/22/17  @Frito-Lay                       @
+028400637701    @Poppables, White Cheddar        @e405 @1.5   @9   @-9  @N/A       @Frito-Lay                       @
+049000007909    @Powerade, Berry                 @e406 @1.0   @12  @18  @01/08/18  @Coca-Cola                       @
+049000003710    @Powerade, Fruit Punch           @e407 @1.0   @1   @13  @12/22/17  @Coca-Cola                       @
+049000032789    @Powerade, Orange                @e408 @1.0   @4   @28  @01/08/18  @Coca-Cola                       @
+049000050752    @Powerade, Zero, Blue            @e409 @1.0   @9   @17  @01/08/18  @Coca-Cola                       @
+049000050745    @Powerade, Zero, Grape           @e410 @1.0   @4   @23  @01/08/18  @Coca-Cola                       @
+049000056433    @Powerade, Zero, Red             @e411 @1.0   @9   @15  @12/22/17  @Coca-Cola                       @
+052000707779    @Propel, Berry                   @e412 @1.25  @6   @14  @01/12/18  @PBC                             @
+052000707793    @Propel, Grape                   @e413 @1.25  @3   @21  @01/12/18  @PBC                             @
+052000707786    @Propel, kiwi                    @e414 @1.25  @2   @36  @01/18/18  @PBC                             @
+012000286179    @PureLeaf, Extra Sweet Tea       @e415 @1.25  @16  @7   @01/12/18  @PBC                             @
+012000286186    @PureLeaf, Lemon Tea             @e416 @1.25  @13  @6   @12/22/17  @PBC                             @
+012000286223    @PureLeaf, Raspberry             @e417 @1.25  @3   @10  @01/18/18  @PBC                             @
+01200028620     @PureLeaf, Raspberry Tea         @e418 @1.25  @0   @13  @12/22/17  @PBC                             @
+012000286193    @PureLeaf, Sweet Tea             @e419 @1.25  @8   @27  @12/22/17  @PBC                             @
+012000286209    @PureLeaf, Unsweetened Black Tea @e420 @1.25  @2   @10  @01/18/18  @PBC                             @
+041789001222    @Ramen, Beef                     @e421 @0.5   @2   @-1  @01/16/18  @NEX Vending                     @
+041789001215    @Ramen, Chicken                  @e422 @0.5   @7   @2   @01/16/18  @NEX Vending                     @
+041789001437    @Ramen, Hot & Spicy Chicken      @e423 @0.5   @5   @29  @01/18/18  @NEX Vending                     @
+g100            @Razor                           @e424 @1.0   @0   @0   @12/22/17  @NEX Vending                     @
+611269991000    @Red Bull                        @e425 @2.0   @4   @33  @01/18/18  @NEX Vending                     @
+611269235685    @Red Bull, Blueberry             @e426 @2.0   @2   @41  @01/18/18  @NEX Vending                     @
+611269357011    @Red Bull, Cranberry             @e427 @2.0   @3   @32  @01/16/18  @NEX Vending                     @
+611269312751    @Red Bull, Orange                @e428 @2.0   @4   @20  @01/16/18  @NEX Vending                     @
+611269101713    @Red Bull, Sugar-Free            @e429 @2.0   @9   @25  @01/18/18  @NEX Vending                     @
+611269163452    @Red Bull, Tropical              @e430 @2.0   @6   @15  @01/16/18  @NEX Vending                     @
+03448005        @Reese's, King Size              @e431 @1.5   @4   @24  @01/18/18  @Sam's Club                      @
+03444009        @Reeses, Peanut Butter Cup       @e432 @1.0   @31  @42  @12/22/17  @Sam's Club                      @
+038000012518    @Rice Krispies Treat, Chocolate  @e433 @0.5   @1   @-1  @12/22/17  @Sam's Club                      @
+038000157486    @Rice Krispies Treat, Cocoa      @e434 @0.4   @0   @0   @12/22/17  @Sam's Club                      @
+038000765414    @Rice Krispies Treats            @e435 @0.75  @7   @81  @12/22/17  @Sam's Club                      @
+038000219344    @Rice Krispies Treats            @e436 @0.75  @0   @0   @12/22/17  @Sam's Club                      @
+038000120343    @Rice Krispies Treats, Mini      @e437 @0.4   @0   @6   @12/22/17  @Sam's Club                      @
+818094000017    @Rockstar                        @e438 @2.0   @14  @9   @12/22/17  @PBC                             @
+818094003001    @Rockstar, Fruit Punch           @e439 @2.0   @19  @0   @01/12/18  @PBC                             @
+818094003087    @Rockstar, Pure Zero             @e440 @2.0   @11  @11  @01/12/18  @PBC                             @
+818094002240    @Rockstar, Pure Zero, Silver Ice @e441 @2.0   @0   @0   @12/22/17  @PBC                             @
+818094002080    @Rockstar, Recovery, Lemonade    @e442 @2.0   @2   @21  @12/22/17  @PBC                             @
+81809400000     @Rockstar, Sugar-Free            @e443 @2.0   @0   @31  @12/22/17  @PBC                             @
+818094000024    @Rockstar, Sugar-Free            @e444 @2.0   @2   @29  @12/22/17  @PBC                             @
+818094000703    @Rockstar, Zero-Carb             @e445 @2.0   @1   @57  @01/18/18  @PBC                             @
+028400436175    @Rold Gold, Thins                @e446 @1.5   @4   @0   @12/22/17  @Frito-Lay                       @
+03424403        @Rolo                            @e447 @1.0   @5   @71  @12/22/17  @Sam's Club                      @
+028400564571    @Ruffles, All Dressed            @e448 @1.5   @2   @1   @01/22/18  @Frito-Lay                       @
+028400586634    @Ruffles, Bacon Cheddar          @e449 @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+028400431439    @Ruffles, Cheddar and Sour Cream @e450 @1.5   @12  @0   @01/08/18  @Frito-Lay                       @
+028400437813    @Sabritones, Chile & Lime        @e451 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+g84             @Salad                           @e452 @4.0   @0   @-3  @01/22/18  @Rudy's Subs                     @
+076410094267    @Salted Sunflower Seeds          @e453 @0.5   @13  @33  @12/26/17  @Frito-Lay                       @
+g81             @Sandwich, Flat                  @e454 @2.75  @24  @-37 @01/22/18  @Rudy's Subs                     @
+g85             @Sandwich, Sub                   @e455 @4.0   @5   @23  @01/22/18  @Rudy's Subs                     @
+028400625814    @Santitas, Tortilla Strips       @e456 @1.5   @0   @0   @12/22/17  @Frito-Lay                       @
+078000206401    @Schweppes, Ginger Ale           @e457 @1.25  @4   @42  @01/12/18  @Coca-Cola                       @
+072979004143    @Seagrams, Ginger Ale (Can)      @e458 @0.6   @3   @94  @01/22/18  @Coca-Cola                       @
+04016007        @Skittles                        @e459 @1.0   @17  @57  @12/22/17  @Sam's Club                      @
+04016201        @Skittles, Berry                 @e460 @1.0   @17  @56  @12/22/17  @Sam's Club                      @
+04026606        @Skittles, Sour                  @e461 @1.0   @15  @26  @12/22/17  @Sam's Club                      @
+04016308        @Skittles, Tropical              @e462 @1.0   @0   @0   @12/22/17  @Sam's Club                      @
+026200101927    @Slim Jim                        @e463 @0.25  @134 @97  @12/22/17  @Sam's Club                      @
+028400437899    @Smartfood Popcorn, White Cheddar@e464 @1.5   @1   @3   @01/22/18  @Frito-Lay                       @
+040000424314    @Snickers                        @e465 @1.0   @54  @52  @12/22/17  @Sam's Club                      @
+040000002635    @Snickers, King-Size             @e466 @1.25  @17  @42  @12/22/17  @Sam's Club                      @
+077975092248    @Snyder's, Cheddar Cheese        @e467 @1.0   @7   @1   @12/22/17  @S-L Distribution                @
+077975089729    @Snyder's, HMO                   @e468 @1.0   @0   @45  @01/23/18  @S-L Distribution                @
+077975089736    @Snyder's, Hot Buffalo Wing      @e469 @1.0   @11  @9   @01/16/18  @S-L Distribution                @
+077975010051    @Snyder's, Jalapeno              @e470 @1.0   @0   @18  @01/23/18  @S-L Distribution                @
+077975092675    @Snyder's, Pretzels              @e471 @1.5   @31  @-5  @12/22/17  @S-L Distribution                @
+07797509220     @Snyder's, S'mores               @e472 @1.0   @0   @0   @12/22/17  @S-L Distribution                @
+077975092224    @Snyder's, S'mores               @e473 @1.0   @0   @0   @12/22/17  @S-L Distribution                @
+077975090930    @Snyder's, Salted Caramel        @e474 @1.0   @3   @4   @01/16/18  @S-L Distribution                @
+077975093207    @Snyder's, Sweet Chili Garlic    @e475 @1.0   @7   @0   @12/22/17  @S-L Distribution                @
+739510900004    @Sobe, Citrus                    @e476 @1.5   @6   @17  @01/18/18  @PBC                             @
+739510800106    @Sobe, Green Tea                 @e477 @1.5   @2   @17  @01/18/18  @PBC                             @
+739510900400    @Sobe, Pina Colada               @e478 @1.5   @2   @22  @01/18/18  @PBC                             @
+739510100701    @Sobe, Tsunami                   @e479 @1.5   @0   @17  @01/18/18  @PBC                             @
+070462098501    @Sour Patch Kids                 @e480 @1.0   @8   @56  @12/22/17  @Sam's Club                      @
+070462431445    @Sour Patch Kids, Extreme        @e481 @1.0   @4   @-4  @N/A       @Sam's Club                      @
+070462098525    @Sour Patch Watermelon           @e482 @1.0   @11  @0   @12/22/17  @Sam's Club                      @
+04976400        @Sprite                          @e483 @1.25  @19  @6   @12/22/17  @Coca-Cola                       @
+04913207        @Sprite (Can)                    @e484 @0.6   @18  @39  @12/22/17  @Coca-Cola                       @
+012000028472    @Starbucks, DBLshot Coffee       @e485 @2.25  @3   @17  @01/18/18  @PBC                             @
+01217702        @Starbucks, DBLshot Espresso     @e486 @2.75  @2   @24  @01/18/18  @PBC                             @
+012000028458    @Starbucks, DBLshot Mocha        @e487 @2.25  @4   @21  @01/12/18  @PBC                             @
+012000028496    @Starbucks, DBLshot Vanilla      @e488 @2.25  @2   @11  @01/18/18  @PBC                             @
+012000038488    @Starbucks, DBLshot White Choc.  @e489 @2.25  @3   @14  @01/18/18  @PBC                             @
+012000016721    @Starbucks, Frappucino Caramel   @e490 @2.5   @1   @20  @01/18/18  @PBC                             @
+01218002        @Starbucks, Frappucino Coffee    @e491 @2.5   @2   @25  @01/18/18  @PBC                             @
+01245200        @Starbucks, Frappucino Mocha     @e492 @2.5   @4   @13  @01/18/18  @PBC                             @
+012000044779    @Starbucks, Frappucino S'mores   @e493 @2.5   @4   @13  @12/22/17  @PBC                             @
+012000813313    @Starbucks, Frappucino Vanilla   @e494 @2.5   @7   @7   @12/22/17  @PBC                             @
+022000017567    @Starburst                       @e495 @1.0   @13  @-13 @12/22/17  @Sam's Club                      @
+04097002        @Starburst, Fave Reds            @e496 @1.0   @9   @10  @12/22/17  @Sam's Club                      @
+04005108        @Starburst, Original             @e497 @1.0   @11  @72  @12/22/17  @Sam's Club                      @
+022000018809    @Starburst, Summer Splash        @e498 @1.0   @0   @0   @12/22/17  @Sam's Club                      @
+022000017352    @Starburst, Sweet & Sour         @e499 @1.0   @0   @23  @12/22/17  @Sam's Club                      @
+028400437820    @Sun Chips, Harvest Cheddar      @e500 @1.5   @4   @0   @01/12/18  @Frito-Lay                       @
+024300781063    @Sunbelt, GBar, Choc. Chip       @e501 @0.5   @4   @27  @01/19/18  @McKee Foods                     @
+024300781162    @Sunbelt, GBar, FDip. Choc. Chip @e502 @0.5   @8   @15  @01/19/18  @McKee Foods                     @
+024300781049    @Sunbelt, GBar, FDip. Coconut    @e503 @0.5   @2   @27  @01/19/18  @McKee Foods                     @
+024300781087    @Sunbelt, GBar, Oats & Honey     @e504 @0.5   @1   @22  @01/19/18  @McKee Foods                     @
+028400653411    @Sunflower Seeds, Ranch, Frito Lay@e505 @0.5   @4   @54  @01/12/18  @Frito-Lay                       @
+079200912338    @Sweet Tarts, Chewy              @e506 @1.0   @4   @5   @12/22/17  @Sam's Club                      @
+794522909001    @Tazo, Giant Peach               @e507 @1.25  @5   @18  @01/18/18  @PBC                             @
+794522916009    @Tazo, Green Tea                 @e508 @1.25  @7   @17  @01/18/18  @PBC                             @
+g89             @Tea Bag                         @e509 @0.25  @111 @216 @12/22/17  @Sam's Club                      @
+021900982494    @Tom's, BBQ                      @e510 @1.5   @0   @0   @12/22/17  @S-L Distribution                @
+021900982517    @Tom's, Bacon Cheddar Fries      @e511 @1.5   @0   @13  @01/23/18  @S-L Distribution                @
+021900982234    @Tom's, Bugles, Nacho Cheese     @e512 @1.5   @1   @4   @01/23/18  @S-L Distribution                @
+021900982210    @Tom's, Bugles, Original         @e513 @1.5   @1   @8   @01/23/18  @S-L Distribution                @
+021900982227    @Tom's, Bugles, Ranch            @e514 @1.5   @0   @4   @01/23/18  @S-L Distribution                @
+021900982593    @Tom's, Chips, Buffalo Wing      @e515 @1.5   @1   @3   @01/23/18  @S-L Distribution                @
+021900982548    @Tom's, Chips, Ridges BBQ        @e516 @1.5   @0   @4   @01/23/18  @S-L Distribution                @
+021900982579    @Tom's, Chips, Salt & Vinegar    @e517 @1.5   @10  @-2  @12/26/17  @S-L Distribution                @
+021900982586    @Tom's, Chips, Sour Cream & Onion@e518 @1.5   @0   @6   @01/23/18  @S-L Distribution                @
+021900982524    @Tom's, Hot Fries                @e519 @1.5   @6   @1   @12/22/17  @S-L Distribution                @
+021900982562    @Tom's, Orignal Chips            @e520 @1.5   @3   @1   @12/22/17  @S-L Distribution                @
+021900982272    @Tom's, Pork Skins, BBQ          @e521 @1.5   @1   @9   @01/23/18  @S-L Distribution                @
+021900982258    @Tom's, Pork Skins, Hot          @e522 @1.5   @2   @-3  @01/16/18  @S-L Distribution                @
+021900982265    @Tom's, Pork Skins, Salt & Vin.  @e523 @1.5   @2   @0   @12/22/17  @S-L Distribution                @
+028400002110    @Tortilla Chips                  @e524 @2.0   @0   @1   @01/22/18  @Frito-Lay                       @
+028400002103    @Tortilla Chips, No-Salt         @e525 @2.0   @0   @0   @01/22/18  @Frito-Lay                       @
+02840331        @Tostitos, Dip Cup, Nacho Cheese @e526 @1.0   @0   @6   @01/22/18  @Frito-Lay                       @
+028400070942    @Tostitos, Dip, French Onion     @e527 @3.0   @0   @0   @12/22/17  @Frito-Lay                       @
+028400070959    @Tostitos, Dip, Ranch            @e528 @3.0   @0   @4   @12/22/17  @Frito-Lay                       @
+028400070980    @Tostitos, Dip, Salsa Con Queso  @e529 @3.0   @3   @-3  @12/22/17  @Frito-Lay                       @
+028400071031    @Tostitos, Dip, Spinach          @e530 @3.0   @4   @-4  @12/22/17  @Frito-Lay                       @
+028400215732    @Tostitos, Dip, White Queso      @e531 @3.0   @2   @-2  @12/22/17  @Frito-Lay                       @
+048500008614    @Tropicana, Apple Juice          @e532 @1.5   @5   @15  @01/18/18  @PBC                             @
+048500008638    @Tropicana, Grape                @e533 @1.5   @4   @14  @12/22/17  @PBC                             @
+048500008607    @Tropicana, Orange Juice         @e534 @1.5   @14  @1   @01/12/18  @PBC                             @
+048500008683    @Tropicana, Pineapple Orange     @e535 @1.5   @6   @12  @01/18/18  @PBC                             @
+048500009406    @Tropicana, Red Grapefruit       @e536 @1.5   @0   @22  @01/18/18  @PBC                             @
+048500018378    @Tropicana, Strawberry Kiwi      @e537 @1.5   @4   @17  @01/18/18  @PBC                             @
+04043506        @Twix                            @e538 @1.0   @24  @50  @12/22/17  @Sam's Club                      @
+051500050163    @Uncrustables, Grape             @e539 @1.0   @36  @-77 @01/18/18  @Sam's Club                      @
+g86             @Veggie Dip                      @e540 @1.75  @0   @0   @01/22/18  @Rudy's Subs                     @
+786162010001    @Vitamin Water, Dragonfruit      @e541 @1.5   @10  @7   @12/22/17  @Coca-Cola                       @
+786162040008    @Vitamin Water, Orange           @e542 @1.5   @6   @17  @12/22/17  @Coca-Cola                       @
+786162080004    @Vitamin Water, Tropical         @e543 @1.5   @8   @1   @12/22/17  @Coca-Cola                       @
+786162150004    @Vitamin Water, XXX              @e544 @1.5   @3   @9   @12/22/17  @Coca-Cola                       @
+682430400102    @Voss Water                      @e545 @1.0   @35  @90  @12/22/17  @AZ Southeast                    @
+075140707027    @Water, Crystal Geyser           @e546 @0.75  @46  @193 @01/18/18  @NEX Vending                     @
+049000026566    @Water, Dasani                   @e547 @1.5   @2   @67  @01/22/18  @Coca-Cola                       @
+06827465        @Water, PureLife                 @e548 @0.5   @119 @-238@01/18/18  @NEX Vending                     @
+012000161162    @Water, Sobe, Lifewater          @e549 @1.25  @15  @27  @01/18/18  @PBC                             @
+034856028987    @Welch's, Fruit Snacks           @e550 @0.75  @20  @54  @12/22/17  @Sam's Club                      @
+g87             @Wrap                            @e551 @4.0   @3   @0   @01/22/18  @Rudy's Subs                     @
+07235748        @Yoohoo (Can)                    @e552 @0.75  @10  @29  @12/22/17  @Sam's Club                      @
+366715973627    @Zantac                          @e553 @1.5   @0   @4   @01/16/18  @NEX Vending                     @
+613008728045    @arizona energy                  @e554 @1.0   @0   @24  @01/22/18  @AZ Southeast                    @
+613008726096    @arizona lemonade                @e555 @1.0   @0   @24  @01/22/18  @AZ Southeast                    @

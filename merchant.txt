@@ -1,0 +1,3 @@
+merchant_id=hgg7g44stmgvj4v7
+public_key=2p2pxmqzybp2jnzc
+private_key=16e713ad74d7184a9fb8f06edfb7dfdb
